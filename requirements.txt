@@ -2,3 +2,5 @@ numpy
 torch
 matplotlib
 colab-env
+pandas
+scikit-learn
