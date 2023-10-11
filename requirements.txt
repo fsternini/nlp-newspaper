@@ -5,5 +5,4 @@ colab-env
 pandas
 scikit-learn
 seaborn
-mecab-python3
-unidic
+fugashi
