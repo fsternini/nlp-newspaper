@@ -5,4 +5,5 @@ colab-env
 pandas
 scikit-learn
 seaborn
-JapaneseTokenizer
+mecab-python3
+unidic
