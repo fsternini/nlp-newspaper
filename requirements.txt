@@ -4,3 +4,5 @@ matplotlib
 colab-env
 pandas
 scikit-learn
+seaborn
+JapaneseTokenizer
