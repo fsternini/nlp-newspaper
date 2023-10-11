@@ -5,5 +5,5 @@ colab-env
 pandas
 scikit-learn
 seaborn
-fugashi
+fugashi[unidic]
 transformers
