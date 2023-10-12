@@ -7,3 +7,6 @@ scikit-learn
 seaborn
 fugashi[unidic]
 transformers
+unidic-lite
+datasets
+accelerate
