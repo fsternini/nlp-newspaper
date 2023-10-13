@@ -11,3 +11,4 @@ unidic-lite
 datasets
 accelerate
 evaluate
+tqdm
