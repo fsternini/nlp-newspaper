@@ -10,3 +10,4 @@ transformers
 unidic-lite
 datasets
 accelerate
+evaluate
