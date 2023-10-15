@@ -1,0 +1,14 @@
+numpy
+torch
+matplotlib
+colab-env
+pandas
+scikit-learn
+seaborn
+fugashi[unidic]
+transformers
+unidic-lite
+datasets
+accelerate
+evaluate
+tqdm
